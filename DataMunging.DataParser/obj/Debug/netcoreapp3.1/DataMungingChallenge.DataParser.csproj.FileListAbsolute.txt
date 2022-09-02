@@ -1,0 +1,13 @@
+D:\Bhuban\DataMungingChallenge\DataMunging.DataParser\bin\Debug\netcoreapp3.1\DataMungingChallenge.DataParser.deps.json
+D:\Bhuban\DataMungingChallenge\DataMunging.DataParser\bin\Debug\netcoreapp3.1\DataMungingChallenge.DataParser.dll
+D:\Bhuban\DataMungingChallenge\DataMunging.DataParser\bin\Debug\netcoreapp3.1\DataMungingChallenge.DataParser.pdb
+D:\Bhuban\DataMungingChallenge\DataMunging.DataParser\bin\Debug\netcoreapp3.1\DataMungingChallenge.CompareType.dll
+D:\Bhuban\DataMungingChallenge\DataMunging.DataParser\bin\Debug\netcoreapp3.1\DataMungingChallenge.CompareType.pdb
+D:\Bhuban\DataMungingChallenge\DataMunging.DataParser\obj\Debug\netcoreapp3.1\DataMungingChallenge.DataParser.csproj.AssemblyReference.cache
+D:\Bhuban\DataMungingChallenge\DataMunging.DataParser\obj\Debug\netcoreapp3.1\DataMungingChallenge.DataParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bhuban\DataMungingChallenge\DataMunging.DataParser\obj\Debug\netcoreapp3.1\DataMungingChallenge.DataParser.AssemblyInfoInputs.cache
+D:\Bhuban\DataMungingChallenge\DataMunging.DataParser\obj\Debug\netcoreapp3.1\DataMungingChallenge.DataParser.AssemblyInfo.cs
+D:\Bhuban\DataMungingChallenge\DataMunging.DataParser\obj\Debug\netcoreapp3.1\DataMungingChallenge.DataParser.csproj.CoreCompileInputs.cache
+D:\Bhuban\DataMungingChallenge\DataMunging.DataParser\obj\Debug\netcoreapp3.1\DataMungingChallenge.DataParser.csproj.CopyComplete
+D:\Bhuban\DataMungingChallenge\DataMunging.DataParser\obj\Debug\netcoreapp3.1\DataMungingChallenge.DataParser.dll
+D:\Bhuban\DataMungingChallenge\DataMunging.DataParser\obj\Debug\netcoreapp3.1\DataMungingChallenge.DataParser.pdb

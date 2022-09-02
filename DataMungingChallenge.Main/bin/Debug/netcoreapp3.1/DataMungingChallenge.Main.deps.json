@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DataMungingChallenge.Main/1.0.0": {
+        "dependencies": {
+          "DataMungingChallenge.Calculation": "1.0.0",
+          "DataMungingChallenge.CompareType": "1.0.0",
+          "DataMungingChallenge.DataParser": "1.0.0"
+        },
+        "runtime": {
+          "DataMungingChallenge.Main.dll": {}
+        }
+      },
+      "DataMungingChallenge.Calculation/1.0.0": {
+        "dependencies": {
+          "DataMungingChallenge.CompareType": "1.0.0"
+        },
+        "runtime": {
+          "DataMungingChallenge.Calculation.dll": {}
+        }
+      },
+      "DataMungingChallenge.CompareType/1.0.0": {
+        "runtime": {
+          "DataMungingChallenge.CompareType.dll": {}
+        }
+      },
+      "DataMungingChallenge.DataParser/1.0.0": {
+        "dependencies": {
+          "DataMungingChallenge.CompareType": "1.0.0"
+        },
+        "runtime": {
+          "DataMungingChallenge.DataParser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataMungingChallenge.Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataMungingChallenge.Calculation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataMungingChallenge.CompareType/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataMungingChallenge.DataParser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

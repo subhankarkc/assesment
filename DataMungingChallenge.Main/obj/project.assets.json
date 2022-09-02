@@ -1,0 +1,140 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DataMungingChallenge.Calculation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DataMungingChallenge.CompareType": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataMungingChallenge.Calculation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataMungingChallenge.Calculation.dll": {}
+        }
+      },
+      "DataMungingChallenge.CompareType/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DataMungingChallenge.CompareType.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataMungingChallenge.CompareType.dll": {}
+        }
+      },
+      "DataMungingChallenge.DataParser/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DataMungingChallenge.CompareType": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataMungingChallenge.DataParser.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataMungingChallenge.DataParser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataMungingChallenge.Calculation/1.0.0": {
+      "type": "project",
+      "path": "../DataMungingChallenge.Calculation/DataMungingChallenge.Calculation.csproj",
+      "msbuildProject": "../DataMungingChallenge.Calculation/DataMungingChallenge.Calculation.csproj"
+    },
+    "DataMungingChallenge.CompareType/1.0.0": {
+      "type": "project",
+      "path": "../DataMungingChallenge.CompareType/DataMungingChallenge.CompareType.csproj",
+      "msbuildProject": "../DataMungingChallenge.CompareType/DataMungingChallenge.CompareType.csproj"
+    },
+    "DataMungingChallenge.DataParser/1.0.0": {
+      "type": "project",
+      "path": "../DataMunging.DataParser/DataMungingChallenge.DataParser.csproj",
+      "msbuildProject": "../DataMunging.DataParser/DataMungingChallenge.DataParser.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "DataMungingChallenge.Calculation >= 1.0.0",
+      "DataMungingChallenge.CompareType >= 1.0.0",
+      "DataMungingChallenge.DataParser >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\UBA\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Bhuban\\DataMungingChallenge\\DataMungingChallenge.Main\\DataMungingChallenge.Main.csproj",
+      "projectName": "DataMungingChallenge.Main",
+      "projectPath": "D:\\Bhuban\\DataMungingChallenge\\DataMungingChallenge.Main\\DataMungingChallenge.Main.csproj",
+      "packagesPath": "C:\\Users\\UBA\\.nuget\\packages\\",
+      "outputPath": "D:\\Bhuban\\DataMungingChallenge\\DataMungingChallenge.Main\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\UBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\Bhuban\\DataMungingChallenge\\DataMunging.DataParser\\DataMungingChallenge.DataParser.csproj": {
+              "projectPath": "D:\\Bhuban\\DataMungingChallenge\\DataMunging.DataParser\\DataMungingChallenge.DataParser.csproj"
+            },
+            "D:\\Bhuban\\DataMungingChallenge\\DataMungingChallenge.Calculation\\DataMungingChallenge.Calculation.csproj": {
+              "projectPath": "D:\\Bhuban\\DataMungingChallenge\\DataMungingChallenge.Calculation\\DataMungingChallenge.Calculation.csproj"
+            },
+            "D:\\Bhuban\\DataMungingChallenge\\DataMungingChallenge.CompareType\\DataMungingChallenge.CompareType.csproj": {
+              "projectPath": "D:\\Bhuban\\DataMungingChallenge\\DataMungingChallenge.CompareType\\DataMungingChallenge.CompareType.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.25, 3.1.25]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

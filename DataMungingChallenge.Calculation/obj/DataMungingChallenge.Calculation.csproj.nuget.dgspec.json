@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Bhuban\\DataMungingChallenge\\DataMungingChallenge.Calculation\\DataMungingChallenge.Calculation.csproj": {}
+  },
+  "projects": {
+    "D:\\Bhuban\\DataMungingChallenge\\DataMungingChallenge.Calculation\\DataMungingChallenge.Calculation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Bhuban\\DataMungingChallenge\\DataMungingChallenge.Calculation\\DataMungingChallenge.Calculation.csproj",
+        "projectName": "DataMungingChallenge.Calculation",
+        "projectPath": "D:\\Bhuban\\DataMungingChallenge\\DataMungingChallenge.Calculation\\DataMungingChallenge.Calculation.csproj",
+        "packagesPath": "C:\\Users\\UBA\\.nuget\\packages\\",
+        "outputPath": "D:\\Bhuban\\DataMungingChallenge\\DataMungingChallenge.Calculation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\UBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Bhuban\\DataMungingChallenge\\DataMungingChallenge.CompareType\\DataMungingChallenge.CompareType.csproj": {
+                "projectPath": "D:\\Bhuban\\DataMungingChallenge\\DataMungingChallenge.CompareType\\DataMungingChallenge.CompareType.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Bhuban\\DataMungingChallenge\\DataMungingChallenge.CompareType\\DataMungingChallenge.CompareType.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Bhuban\\DataMungingChallenge\\DataMungingChallenge.CompareType\\DataMungingChallenge.CompareType.csproj",
+        "projectName": "DataMungingChallenge.CompareType",
+        "projectPath": "D:\\Bhuban\\DataMungingChallenge\\DataMungingChallenge.CompareType\\DataMungingChallenge.CompareType.csproj",
+        "packagesPath": "C:\\Users\\UBA\\.nuget\\packages\\",
+        "outputPath": "D:\\Bhuban\\DataMungingChallenge\\DataMungingChallenge.CompareType\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\UBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

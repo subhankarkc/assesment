@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mbfy87E7FEBg12I4db2WnelNDC64RgyfKuVmvNnaGdYHdZawwmwNsdJq0+khMCwHLQpT962DPAb73FjqaPDnYA==",
+  "success": true,
+  "projectFilePath": "D:\\Bhuban\\DataMungingChallenge\\DataMungingChallenge.Main\\DataMungingChallenge.Main.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UBA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
